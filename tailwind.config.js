@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      colors: {
+        orange: '#eb651c'
+      },
       backgroundColor: {
         'content': 'var(--bg-color)'
       },
